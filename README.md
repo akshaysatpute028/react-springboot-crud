@@ -50,7 +50,7 @@ In the project main directory
 Open [http://localhost:8080)(http://localhost:8080) to view it in your browser.
 
 
-# IDE : STS / VS Code for Front / Backend 
+# IDE : STS / VS Code 
 
 ## Spring boot extension pack for vs code
 
