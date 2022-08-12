@@ -1,7 +1,6 @@
 # react-springboot-crud
 
 # Front End : React Js & BootStrap , CSS
-## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
