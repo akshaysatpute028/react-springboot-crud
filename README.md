@@ -28,7 +28,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# Backend End : Springboot , JPA
+# Backend End : Springboot , JPA & MySQL
 
 In the project main directory 
 
@@ -41,13 +41,19 @@ Open [http://localhost:8080)(http://localhost:8080) to view it in your browser.
 ## Spring boot extension pack for vs code
 
 Name: Spring Boot Extension Pack
-Id: Pivotal.vscode-boot-dev-pack
-Description: A collection of extensions for developing Spring Boot applications
-Version: 0.1.0
-Publisher: Pivotal
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
 
-# Data Base : MySQL
+Id: Pivotal.vscode-boot-dev-pack
+
+Description: A collection of extensions for developing Spring Boot applications
+
+Version: 0.1.0
+
+Publisher: Pivotal
+
+VS Marketplace Link:
+
+## https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
+
 
 
 
