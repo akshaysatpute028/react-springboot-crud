@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Index() {
   return (
@@ -6,7 +7,7 @@ export default function Index() {
         <h1>REACT SPRINGBOOT CRUD</h1>
         <h2>Using Bootstrap, JPA & MySQL.</h2>
         <p class="text-primary">Developed by Akshay Satpute</p>
-        <button type="button" onClick="./home' " class="btn btn-outline-primary">Continue</button>
+        <Link to="/home' " class="btn btn-outline-primary">Continue</Link>
     </div>
   )
 }
